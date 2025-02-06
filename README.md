@@ -22,8 +22,25 @@ I'm **Hüsnü Şensoy**, a computer scientist passionate about ML, AI, and datab
 - 🧑‍💻 Open-source contributor  
 - 📖 Passionate about classical Machine Learning, Probability & Statistics, AI and Relational Databases.
 
+
+## 🌟 Open Source Contributions
+- 🚀 Maintainer of [Sadedegel](https://github.com/globalmaksimum/sadedegel)
+
+
 ## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat&logo=python)
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+![Oracle](https://img.shields.io/badge/Oracle-DB-F80000.svg?style=flat&logo=oracle&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
+
+
+## 🎯 Fun Facts
+- 📌 I am an ex-DBA (mainly Oracle)
+- 💻 I usually develop on Python, SQL, GoLang and C
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=husnusensoy&show_icons=true&theme=radical)
