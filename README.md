@@ -26,9 +26,42 @@ I'm **Hüsnü Şensoy**, a computer scientist passionate about ML, AI, and datab
 ## 🌟 Open Source Contributions
 - 🚀 Maintainer of [Sadedegel](https://github.com/globalmaksimum/sadedegel)
 
+## Bootcamps
+- [Turk Telekom Data Science Bootcamp](https://github.com/husnusensoy/tt-bootcamp.git)
+
+## 📖 ML Books 
+
+### Introduction
+
+- [Introduction to Machine Learning](https://a.co/d/9QaIhMZ)
+  - One of the best introductory books with somewhat wierd notation in the beginning.
+- [Pattern Recognition and Machine Learning](https://a.co/d/cNMHys6)
+  - Maybe the best introductory book
+
+### Application
+
+- [Speech and Language Processing](https://a.co/d/dFztmTw)
+  - Great for good old techniques and fundamentals before deep learning era.
+- [Outlier Analysis](https://a.co/d/dzQHDmY)
+  - Great book for literature survey
+- [Recommender Systems](https://a.co/d/dHThzwl)
+  - Great book for literature survey
+
+### Theory
+
+- [Introduction to Linear Algebra](https://a.co/d/8JRMGHH)
+  - Also start watching [Lec1, Linear Algebra](https://youtu.be/ZK3O402wf1c?si=tyPa-oD_u-M5nSCv) and you will not be able to stop.
+
+### AI
+
+- [Artificial Intelligence: A Modern Approach](https://a.co/d/69v8pG3)
+  - Fundamental book for AI by legendary Peter Norvig.
+
+
+More to come...
 
 ## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat&logo=python)
+![Python](https://img.shields.io/badge/Python--blue?style=flat&logo=python)
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
