@@ -28,6 +28,7 @@ I'm **Hüsnü Şensoy**, a computer scientist passionate about ML, AI, and datab
 
 ## Bootcamps
 - [Turk Telekom Data Science Bootcamp](https://github.com/husnusensoy/tt-bootcamp.git)
+- [Bauntek Bootcamp](https://github.com/husnusensoy/baunktek-bootcamp-ml.git)
 
 ## 📖 ML Books 
 
